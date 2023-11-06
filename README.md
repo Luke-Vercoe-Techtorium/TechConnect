@@ -1,4 +1,4 @@
-# Tech Connect
+# TechConnect-WaterFall
 
 # Discription 
 This project is a website for the company TechConnect, and its purpose is to create more sales for Techconnect by allowing online purchases and advertisements.
